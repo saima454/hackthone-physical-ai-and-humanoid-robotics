@@ -30,7 +30,7 @@ const config: Config = {
 
   // Custom fields for API configuration (used in your hooks)
   customFields: {
-    apiUrl: process.env.REACT_APP_API_URL || 'https://ai-rative-book-backend-production.up.railway.app',
+    apiUrl: process.env.REACT_APP_API_URL || 'web-production-0500d.up.railway.app',
     apiKey: process.env.REACT_APP_API_KEY || '',
   },
 
